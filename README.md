@@ -3,7 +3,7 @@
 - 🌱 I'm a total amateur.
 - 🔭 I’m currently working on some projects I am interested in.
 
-[![Top Langs](https://github-readme-stats-delta-red-11.vercel.app/api/top-langs/?username=lonelyicer&layout=compact)](https://github.com/lonelyicer?tab=repositories)
+[![Top Langs](https://github-readme-stats-delta-red-11.vercel.app/api/top-langs/?username=lonelyicer&layout=compact&hide=shaderlab,C,CMake,html,c%2B%2B,dart,glsl)](https://github.com/lonelyicer?tab=repositories)
 
 ## Some social links
 
