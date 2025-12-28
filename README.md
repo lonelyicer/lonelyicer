@@ -2,6 +2,7 @@
 
 - 🌱 I'm a total amateur.
 - 🔭 I’m currently working on some projects I am interested in.
+- ⬇ This thing isn’t very accurate — I’m not very good at Rust.
 
 [![Top Langs](https://toplang.ringlo.win/api/top-langs/?username=lonelyicer&layout=compact)](https://github.com/lonelyicer?tab=repositories)
 
